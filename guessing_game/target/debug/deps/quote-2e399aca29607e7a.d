@@ -1,0 +1,11 @@
+/Users/joegillard/repos/RustBook/guessing_game/target/debug/deps/libquote-2e399aca29607e7a.rmeta: /Users/joegillard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/lib.rs /Users/joegillard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/ext.rs /Users/joegillard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/format.rs /Users/joegillard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/ident_fragment.rs /Users/joegillard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/to_tokens.rs /Users/joegillard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/runtime.rs /Users/joegillard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/spanned.rs
+
+/Users/joegillard/repos/RustBook/guessing_game/target/debug/deps/quote-2e399aca29607e7a.d: /Users/joegillard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/lib.rs /Users/joegillard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/ext.rs /Users/joegillard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/format.rs /Users/joegillard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/ident_fragment.rs /Users/joegillard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/to_tokens.rs /Users/joegillard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/runtime.rs /Users/joegillard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/spanned.rs
+
+/Users/joegillard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/lib.rs:
+/Users/joegillard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/ext.rs:
+/Users/joegillard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/format.rs:
+/Users/joegillard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/ident_fragment.rs:
+/Users/joegillard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/to_tokens.rs:
+/Users/joegillard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/runtime.rs:
+/Users/joegillard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.38/src/spanned.rs:
